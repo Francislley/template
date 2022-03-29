@@ -49,7 +49,7 @@ jsonpointer==1.0
 kombu==3.0.29
 newrelic==2.58.1.44
 oauth==1.0.1
-paramiko==1.16.0
+paramiko==2.10.1
 pep8==1.6.2
 prettytable==0.7.2
 pyOpenSSL==0.13
